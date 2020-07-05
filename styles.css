@@ -1,26 +1,32 @@
 h1 {
 	text-align: center; 
 	background-color: white;
-	padding: 1px;
+	padding: 10px;
 
+}
+
+body {
+	background-color: black;
 }
 
 p {
 	font: times new roman;
 	text-align: center;
 	font-size: 20px;
-
+	border-width: : 1px;
+	border-color: : blue;
+	border-style: solid;
+	padding: 10px
 }
 
 header {
-	background-color: blue;
+	background-color: black;
 	padding: 10px;
 }
 
 footer {
 	background-color: blue;
 	padding: 10px;
-
 }
 
 ul {
@@ -30,8 +36,22 @@ ul {
 }
 
 li {
-  display: block; 
-  background-color: yellow;
-  padding: 5px 10px;
+  float: left; 
+  text-align: center;
+  display: block;
+  text-decoration-color: : white;
+  background-color: black;
+  padding: 10px;
   width: 100px;
+  border-right: 1px solid #bbb;
+}
+
+a {
+	display: block;
+	padding: 1px;
+	background-color: white;
+}
+
+section {
+	background-color: white;
 }
