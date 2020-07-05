@@ -1,0 +1,37 @@
+h1 {
+	text-align: center; 
+	background-color: white;
+	padding: 1px;
+
+}
+
+p {
+	font: times new roman;
+	text-align: center;
+	font-size: 20px;
+
+}
+
+header {
+	background-color: blue;
+	padding: 10px;
+}
+
+footer {
+	background-color: blue;
+	padding: 10px;
+
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+  display: block; 
+  background-color: yellow;
+  padding: 5px 10px;
+  width: 100px;
+}
