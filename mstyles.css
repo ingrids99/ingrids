@@ -1,0 +1,58 @@
+h1 {
+	font-family: "Times New Roman";
+	background-color: white;
+	padding: 10px;
+	text-align: center;
+	border-width: 1px;
+	border: solid;
+	display: center;
+}
+
+nav {
+	border: solid;
+	border-width: 1px;
+	text-align: center;
+	width: 100px;
+	background-color: white;
+
+}
+
+p.des{
+	color: pink;
+}
+
+a {
+	font-family: "Times New Roman";
+	text-decoration: none;
+	color: black;
+
+}
+
+ul {
+	list-style: none;
+}
+
+li {
+	list-style: none;
+}
+
+body {
+	background-color: lightgrey;
+}
+
+nav{
+	width: 95%;
+	border-width: 1px;
+}
+
+footer {
+	border: solid;
+	width: 95%;
+	padding: 1px;
+	background-color: white;
+}
+
+header{
+	width: 95%;
+
+}
